@@ -11,6 +11,7 @@
 		E83345A92727265A0023E82F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E83345A82727265A0023E82F /* ContentView.swift */; };
 		E83345AB2727265E0023E82F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E83345AA2727265E0023E82F /* Assets.xcassets */; };
 		E83345AE2727265E0023E82F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E83345AD2727265E0023E82F /* Preview Assets.xcassets */; };
+		E83345B5272729180023E82F /* ChangeTimeOfDayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E83345B4272729180023E82F /* ChangeTimeOfDayView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E83345A82727265A0023E82F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E83345AA2727265E0023E82F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E83345AD2727265E0023E82F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E83345B4272729180023E82F /* ChangeTimeOfDayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeTimeOfDayView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				E83345A62727265A0023E82F /* BindingPropertyDemoApp.swift */,
+				E83345B4272729180023E82F /* ChangeTimeOfDayView.swift */,
 				E83345A82727265A0023E82F /* ContentView.swift */,
 				E83345AA2727265E0023E82F /* Assets.xcassets */,
 				E83345AC2727265E0023E82F /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E83345A92727265A0023E82F /* ContentView.swift in Sources */,
+				E83345B5272729180023E82F /* ChangeTimeOfDayView.swift in Sources */,
 				E83345A72727265A0023E82F /* BindingPropertyDemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
